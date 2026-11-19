@@ -3,3 +3,13 @@ body{
     color: whitesmoke;
     font-family: jetbrains-mono, monospace;
 }
+
+ul{
+    list-style-type: none;
+    padding: 0;
+}
+
+a{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
